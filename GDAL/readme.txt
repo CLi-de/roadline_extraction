@@ -1,0 +1,2 @@
+7月29日更新了GdalUtility.h，兼容UTM和TM
+9月10日更新了GdalUtility.h，增加了写切片功能
